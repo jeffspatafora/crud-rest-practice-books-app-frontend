@@ -2,7 +2,8 @@
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
-    <router-link to="/allbooks">All Books</router-link>
+    <router-link to="/allbooks">All Books</router-link> |
+    <router-link to="/addbook">Add A Book</router-link>
   </nav>
   <router-view />
 </template>
