@@ -30,7 +30,6 @@ export default {
       <p>{{ book.author }} <br /> {{ book.year }}</p>
       <img v-bind:src="book.image">
     </div>
-    <button v-on:click="indexBooks()">all books</button>
   </div>
 </template>
 
