@@ -2,7 +2,7 @@
 export default {
   data: function () {
     return {
-      message: "Books app home",
+      message: "Welcome to Vue.js!",
     };
   },
   created: function () { },
